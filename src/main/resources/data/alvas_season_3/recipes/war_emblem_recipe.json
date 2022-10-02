@@ -1,0 +1,24 @@
+{
+  "group": "war_emblem",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:bell"
+    },
+    "1": {
+      "item": "minecraft:red_banner"
+    },
+    "2": {
+      "item": "minecraft:diamond_helmet"
+    }
+  },
+  "result": {
+    "item": "alvas_season_3:war_helmet_helmet",
+    "count": 1
+  }
+}

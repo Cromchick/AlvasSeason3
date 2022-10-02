@@ -1,0 +1,176 @@
+{
+  "mod_elements": [
+    {
+      "name": "WarSpirit",
+      "type": "potioneffect",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "war_spirit"
+    },
+    {
+      "name": "WarSpiritOnEffectActiveTick",
+      "type": "procedure",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "war_spirit_on_effect_active_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "WarSpiritApply",
+      "type": "procedure",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "war_spirit_apply",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "WarHelmet",
+      "type": "armor",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "war_helmet",
+      "metadata": {
+        "eh": true,
+        "el": false,
+        "eb": false,
+        "ec": false
+      }
+    },
+    {
+      "name": "AlvasSeason3",
+      "type": "tab",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alvas_season_3"
+    },
+    {
+      "name": "WarHelmetHelmetTickEvent",
+      "type": "procedure",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "war_helmet_helmet_tick_event",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "WarEmblemRecipe",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "war_emblem_recipe"
+    },
+    {
+      "name": "AncientCurseOnEffectActiveTick",
+      "type": "procedure",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ancient_curse_on_effect_active_tick",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "AncientCurse",
+      "type": "potioneffect",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "ancient_curse"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "itemGroup.tabalvas_season_3": "Alvas Season 3",
+      "item.alvas_season_3.war_helmet_leggings": "War Helmet Leggings",
+      "effect.war_spirit": "The War Spirit",
+      "item.alvas_season_3.war_helmet_helmet": "War Emblem",
+      "item.alvas_season_3.war_helmet_chestplate": "War Helmet Body",
+      "item.alvas_season_3.war_helmet_boots": "War Helmet Boots",
+      "effect.ancient_curse": "Ancient Curse"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "alvas_season_3",
+    "modName": "Alvas Season 3",
+    "version": "1.0.0",
+    "author": "AlexN, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.alvas_season_three",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100354000
+}
