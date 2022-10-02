@@ -1,6 +1,0 @@
-{
-  "parent": "item/handheld",
-  "textures": {
-    "layer0": "alvas_season_3:items/torch_hoe"
-  }
-}
