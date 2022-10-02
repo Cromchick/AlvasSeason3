@@ -136,18 +136,103 @@
       "compiles": true,
       "locked_code": true,
       "registry_name": "ancient_curse"
+    },
+    {
+      "name": "TorchPickaxe",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "torch_pickaxe"
+    },
+    {
+      "name": "TorchAxe",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "torch_axe"
+    },
+    {
+      "name": "TorchSword",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "torch_sword"
+    },
+    {
+      "name": "TorchShovel",
+      "type": "tool",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "torch_shovel"
+    },
+    {
+      "name": "TorchHoe",
+      "type": "tool",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "torch_hoe"
+    },
+    {
+      "name": "TorchPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "torch_pickaxe_recipe"
+    },
+    {
+      "name": "TorchAxeRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "torch_axe_recipe"
+    },
+    {
+      "name": "TorchSwordRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "torch_sword_recipe"
+    },
+    {
+      "name": "TorchShovelRecipe",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "torch_shovel_recipe"
+    },
+    {
+      "name": "TorchHoeRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "torch_hoe_recipe"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "item.alvas_season_3.torch_pickaxe": "Torch Pickaxe",
       "itemGroup.tabalvas_season_3": "Alvas Season 3",
+      "item.alvas_season_3.torch_hoe": "Torch Hoe",
+      "item.alvas_season_3.war_helmet_boots": "War Helmet Boots",
+      "item.alvas_season_3.torch_shovel": "Torch Shovel",
+      "item.alvas_season_3.torch_axe": "Torch Axe",
+      "item.alvas_season_3.torch_sword": "Torch Sword",
       "item.alvas_season_3.war_helmet_leggings": "War Helmet Leggings",
       "effect.war_spirit": "The War Spirit",
       "item.alvas_season_3.war_helmet_helmet": "War Emblem",
       "item.alvas_season_3.war_helmet_chestplate": "War Helmet Body",
-      "item.alvas_season_3.war_helmet_boots": "War Helmet Boots",
       "effect.ancient_curse": "Ancient Curse"
     }
   },

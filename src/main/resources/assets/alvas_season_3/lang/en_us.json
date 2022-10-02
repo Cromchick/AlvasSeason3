@@ -1,9 +1,14 @@
 {
+  "item.alvas_season_3.torch_pickaxe": "Torch Pickaxe",
   "itemGroup.tabalvas_season_3": "Alvas Season 3",
+  "item.alvas_season_3.torch_hoe": "Torch Hoe",
+  "item.alvas_season_3.war_helmet_boots": "War Helmet Boots",
+  "item.alvas_season_3.torch_shovel": "Torch Shovel",
+  "item.alvas_season_3.torch_axe": "Torch Axe",
+  "item.alvas_season_3.torch_sword": "Torch Sword",
   "item.alvas_season_3.war_helmet_leggings": "War Helmet Leggings",
   "effect.war_spirit": "The War Spirit",
   "item.alvas_season_3.war_helmet_helmet": "War Emblem",
   "item.alvas_season_3.war_helmet_chestplate": "War Helmet Body",
-  "item.alvas_season_3.war_helmet_boots": "War Helmet Boots",
   "effect.ancient_curse": "Ancient Curse"
 }
