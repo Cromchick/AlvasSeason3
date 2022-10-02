@@ -143,11 +143,11 @@
   "language_map": {
     "en_us": {
       "itemGroup.tabalvas_season_3": "Alvas Season 3",
-      "item.alvas_season_3.war_helmet_boots": "War Helmet Boots",
       "item.alvas_season_3.war_helmet_leggings": "War Helmet Leggings",
       "effect.war_spirit": "The War Spirit",
       "item.alvas_season_3.war_helmet_helmet": "War Emblem",
       "item.alvas_season_3.war_helmet_chestplate": "War Helmet Body",
+      "item.alvas_season_3.war_helmet_boots": "War Helmet Boots",
       "effect.ancient_curse": "Ancient Curse"
     }
   },
